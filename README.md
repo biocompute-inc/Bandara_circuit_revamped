@@ -1,7 +1,7 @@
 # Bandara Circuit – Redesigned
 
 **Version:** 0.1.0  
-**Designed by:** [@Naveen M](https://github.com/Naveen@Biocompute)  
+**Designed by:** [@Naveen M](https://github.com/Naveen-Biocompute)  
 **Organization:** BioCompute  
 
 ---
